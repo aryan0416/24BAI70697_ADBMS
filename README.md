@@ -9,29 +9,48 @@
 
 ## About
 
-This repository contains the practical work, experiments, assignments, and related implementations completed as part of the Advanced Database Management System course.
+This repository contains the practical work, experiments, assignments, and related coursework completed as part of the Advanced Database Management System course.
 
-The repository is organized experiment-wise for easy access and reference.
+The repository is organized into individual experiment folders and a separate Computer Networks section containing its respective assignments.
 
 ---
 
 ## Repository Contents
 
-| No. | Work              | Link                                     |
-| --- | ----------------- | ---------------------------------------- |
-| 01  | Experiment 01     | [Experiment 01](./Experiment_01)         |
-| 02  | Experiment 02     | [Experiment 02](./Experiment_02)         |
-| 03  | Experiment 03     | [Experiment 03](./Experiment_03)         |
-| 04  | Experiment 04     | [Experiment 04](./Experiment_04)         |
-| 05  | Experiment 05     | [Experiment 05](./Experiment_05)         |
-| 06  | Experiment 06     | [Experiment 06](./Experiment_06)         |
-| 07  | Experiment 07     | [Experiment 07](./Experiment_07)         |
-| 08  | Experiment 08     | [Experiment 08](./Experiment_08)         |
-| 09  | Experiment 09     | [Experiment 09](./Experiment_09)         |
-| 10  | Experiment 10     | [Experiment 10](./Experiment_10)         |
-| 11  | Experiment 11     | [Experiment 11](./Experiment_11)         |
-| 12  | Experiment 12     | [Experiment 12](./Experiment_12)         |
-| 13  | Computer Networks | [Computer Networks](./Computer_Networks) |
+### ADBMS Experiments
+
+| No. | Experiment    | Link                    |
+| --- | ------------- | ----------------------- |
+| 01  | Experiment 01 | [View](./Experiment_01) |
+| 02  | Experiment 02 | [View](./Experiment_02) |
+| 03  | Experiment 03 | [View](./Experiment_03) |
+| 04  | Experiment 04 | [View](./Experiment_04) |
+| 05  | Experiment 05 | [View](./Experiment_05) |
+| 06  | Experiment 06 | [View](./Experiment_06) |
+| 07  | Experiment 07 | [View](./Experiment_07) |
+| 08  | Experiment 08 | [View](./Experiment_08) |
+| 09  | Experiment 09 | [View](./Experiment_09) |
+| 10  | Experiment 10 | [View](./Experiment_10) |
+| 11  | Experiment 11 | [View](./Experiment_11) |
+| 12  | Experiment 12 | [View](./Experiment_12) |
+
+### Computer Networks
+
+The `Computer_Networks` directory contains the Computer Networks assignments and related coursework.
+
+| Section           | Link                                  |
+| ----------------- | ------------------------------------- |
+| Computer Networks | [Open Directory](./Computer_Networks) |
+
+The directory is organized as follows:
+
+```text
+Computer_Networks/
+│
+├── Assignment_01/
+├── Assignment_02/
+└── ...
+```
 
 ---
 
@@ -41,6 +60,9 @@ The repository is organized experiment-wise for easy access and reference.
 24BAI70697_ADBMS/
 │
 ├── Computer_Networks/
+│   ├── Assignment_01/
+│   ├── Assignment_02/
+│   └── ...
 │
 ├── Experiment_01/
 ├── Experiment_02/
@@ -62,7 +84,7 @@ The repository is organized experiment-wise for easy access and reference.
 
 ## Technologies and Concepts
 
-The practical work in this repository covers various database concepts and technologies, including:
+The repository covers practical implementation and coursework related to:
 
 * SQL
 * PostgreSQL
@@ -77,20 +99,20 @@ The practical work in this repository covers various database concepts and techn
 * Database Security
 * Transaction Management
 * Database Administration
-* Advanced Database Management Concepts
+* Computer Networks
 
 ---
 
 ## Objectives
 
-The primary objectives of the practical work are:
+The practical work in this repository is intended to:
 
-1. To understand advanced database management concepts.
-2. To implement SQL queries and database operations.
-3. To work with stored procedures, functions, and triggers.
-4. To understand database security and transaction management.
-5. To develop practical skills in database design and administration.
-6. To apply database concepts through practical implementations.
+1. Develop practical knowledge of advanced database management.
+2. Implement SQL queries and database operations.
+3. Understand procedures, functions, triggers, and views.
+4. Apply database security and transaction management concepts.
+5. Develop practical database programming and administration skills.
+6. Document and organize academic assignments and experiments.
 
 ---
 
@@ -112,4 +134,4 @@ The primary objectives of the practical work are:
 
 ## Academic Purpose
 
-This repository is maintained for academic purposes and contains the practical assignments and implementations completed as part of the Advanced Database Management System course.
+This repository is maintained for academic purposes and contains coursework, practical experiments, assignments, and implementations completed during the course.
